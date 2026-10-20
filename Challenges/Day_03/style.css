@@ -13,8 +13,8 @@ ul {
 ul li {
   position: relative;
   list-style: none;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   margin: 25px;
   transform: rotate(-15deg) skew(20deg);
 }
