@@ -1,5 +1,5 @@
 body{
-  background-color: #F398BE;
+  background-color: white;
 }
 
 .box{
@@ -9,7 +9,7 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50px;
-  padding: 10px;
+  padding: 50px;
 }
 
 .search{
